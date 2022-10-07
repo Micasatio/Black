@@ -1,5 +1,10 @@
 # `🧿 BLACK - BOT 🔮`
 
+Número del creador del Bot: 
+```bash
++595983186566
+
+
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
